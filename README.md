@@ -15,7 +15,7 @@ For faster glitch server response keep server awake by sending get request "/" e
 **Files structure**
 
 
-Start endpoint - **server.js**
+Start endpoint - **server.js**.
 Mongo database models are stored in **models** folder.
 Verification functions for facebook / google access tokens and for verfiying jwt token are stored in folder **verifications**
 All login / signup routes are stored in **routes** folder
