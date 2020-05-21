@@ -12,6 +12,8 @@ Change allowed origins array in server.js file to protect your server from unwan
 
 For faster glitch server response keep server awake by sending get request "/" every 1-5 minutes.
 
+
+
 **Files structure**
 Start endpoint - **server.js**
 Mongo database models are stored in **models** folder.
